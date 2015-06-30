@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VoiceControl</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="voice_recognition">Voice Recognition and Control</string>
+    <string name="speak_button">Speak!</string>
+    <string name="action_camera_item1">打开照相机</string>
+    <string name="action_camera_item2">打开相机</string>
+    <string name="action_camera_item3">相机打开</string>
+    <string name="action_camera_item4">照相机打开</string>
+    <string name="action_camera_item5">open the camera</string>
+    <string name="action_gallery_item1">打开相册</string>
+    <string name="action_gallery_item2">相册打开</string>
+    <string name="action_gallery_item3">查看相册</string>
+    <string name="action_gallery_item4">相册查看</string>
+    <string name="action_video_item1">打开视频</string>
+    <string name="action_video_item2">视频打开</string>
+    <string name="action_video_item3">查看视频</string>
+    <string name="action_video_item4">视频查看</string>
+    <string name="action_music_item1">打开音乐</string>
+    <string name="action_music_item2">音乐打开</string>
+    <string name="action_music_item3">打开音乐播放器</string>
+    <string name="action_music_item4">音乐播放器打开</string>
+    <string name="action_desktime_item1">打开时间</string>
+    <string name="action_desktime_item2">时间打开</string>
+    <string name="action_desktime_item3">查看时间</string>
+    <string name="action_desktime_item4">时间查看</string>
+    <string name="action_browser_item1">打开浏览器</string>
+    <string name="action_browser_item2">浏览器打开</string>
+    <string name="action_browser_item3">使用浏览器</string>
+    <string name="action_browser_item4">浏览器使用</string>
+
+</resources>
